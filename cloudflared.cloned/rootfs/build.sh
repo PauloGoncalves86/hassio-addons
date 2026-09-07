@@ -2,7 +2,7 @@
 # ==============================================================================
 # Home Assistant App: Cloudflared
 #
-# Container build of Cloudflared
+# Container build of Cloudflared  
 # ==============================================================================
 
 set -eux
