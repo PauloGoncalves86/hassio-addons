@@ -2,7 +2,11 @@
 # shellcheck shell=bash
 # ==============================================================================
 # Home Assistant App: Cloudflared
+<<<<<<< HEAD
 # Runs the Cloudflare Tunnel for Home Assistant
+=======
+# Runs the Cloudflare Tunnel for Home Assistant test
+>>>>>>> f2a965c5ae7ebbcfa5b85804bde73cb3f6aea713
 # ==============================================================================
 declare config_file="/tmp/config.json"
 declare certificate="/data/cert.pem"
